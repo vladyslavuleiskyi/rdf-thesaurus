@@ -15,7 +15,7 @@ Business Analysis knowledge is scattered across different standards — BABOK, P
 
 ## Live site
 
-https://thesaurus.smba.ai
+https://usmba.ai
 
 ## What you can do
 
